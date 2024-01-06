@@ -1,0 +1,14 @@
+C:\Users\Spino\Desktop\Hebb\Hebb\bin\Debug\net6.0\Hebb.exe
+C:\Users\Spino\Desktop\Hebb\Hebb\bin\Debug\net6.0\Hebb.deps.json
+C:\Users\Spino\Desktop\Hebb\Hebb\bin\Debug\net6.0\Hebb.runtimeconfig.json
+C:\Users\Spino\Desktop\Hebb\Hebb\bin\Debug\net6.0\Hebb.dll
+C:\Users\Spino\Desktop\Hebb\Hebb\bin\Debug\net6.0\Hebb.pdb
+C:\Users\Spino\Desktop\Hebb\Hebb\obj\Debug\net6.0\Hebb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spino\Desktop\Hebb\Hebb\obj\Debug\net6.0\Hebb.AssemblyInfoInputs.cache
+C:\Users\Spino\Desktop\Hebb\Hebb\obj\Debug\net6.0\Hebb.AssemblyInfo.cs
+C:\Users\Spino\Desktop\Hebb\Hebb\obj\Debug\net6.0\Hebb.csproj.CoreCompileInputs.cache
+C:\Users\Spino\Desktop\Hebb\Hebb\obj\Debug\net6.0\Hebb.dll
+C:\Users\Spino\Desktop\Hebb\Hebb\obj\Debug\net6.0\refint\Hebb.dll
+C:\Users\Spino\Desktop\Hebb\Hebb\obj\Debug\net6.0\Hebb.pdb
+C:\Users\Spino\Desktop\Hebb\Hebb\obj\Debug\net6.0\Hebb.genruntimeconfig.cache
+C:\Users\Spino\Desktop\Hebb\Hebb\obj\Debug\net6.0\ref\Hebb.dll
