@@ -1,0 +1,10 @@
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\XO with Hebb\XO\XO\bin\Debug\XO.exe.config
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\XO with Hebb\XO\XO\bin\Debug\XO.exe
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\XO with Hebb\XO\XO\bin\Debug\XO.pdb
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\XO with Hebb\XO\XO\obj\Debug\XO.csproj.AssemblyReference.cache
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\XO with Hebb\XO\XO\obj\Debug\XO.Form1.resources
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\XO with Hebb\XO\XO\obj\Debug\XO.Properties.Resources.resources
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\XO with Hebb\XO\XO\obj\Debug\XO.csproj.GenerateResource.cache
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\XO with Hebb\XO\XO\obj\Debug\XO.csproj.CoreCompileInputs.cache
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\XO with Hebb\XO\XO\obj\Debug\XO.exe
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\XO with Hebb\XO\XO\obj\Debug\XO.pdb
