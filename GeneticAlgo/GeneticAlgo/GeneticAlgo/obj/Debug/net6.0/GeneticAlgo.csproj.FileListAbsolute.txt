@@ -1,0 +1,14 @@
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\GeneticAlgo\GeneticAlgo\GeneticAlgo\bin\Debug\net6.0\GeneticAlgo.exe
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\GeneticAlgo\GeneticAlgo\GeneticAlgo\bin\Debug\net6.0\GeneticAlgo.deps.json
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\GeneticAlgo\GeneticAlgo\GeneticAlgo\bin\Debug\net6.0\GeneticAlgo.runtimeconfig.json
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\GeneticAlgo\GeneticAlgo\GeneticAlgo\bin\Debug\net6.0\GeneticAlgo.dll
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\GeneticAlgo\GeneticAlgo\GeneticAlgo\bin\Debug\net6.0\GeneticAlgo.pdb
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\net6.0\GeneticAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\net6.0\GeneticAlgo.AssemblyInfoInputs.cache
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\net6.0\GeneticAlgo.AssemblyInfo.cs
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\net6.0\GeneticAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\net6.0\GeneticAlgo.dll
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\net6.0\refint\GeneticAlgo.dll
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\net6.0\GeneticAlgo.pdb
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\net6.0\GeneticAlgo.genruntimeconfig.cache
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\GeneticAlgo\GeneticAlgo\GeneticAlgo\obj\Debug\net6.0\ref\GeneticAlgo.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EbWcUrmJl5eUwbJLCYE0w5PDE8f7as23FNqB1IJWovqwN5kRfPTrJIGwnYEObLkOxTcXCm1eyFc0guygikekFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Spino\\Desktop\\Hebb\\Hebb\\CI_Class\\GeneticAlgo\\GeneticAlgo\\GeneticAlgo\\GeneticAlgo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Spino\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Spino\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Spino\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Spino\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
