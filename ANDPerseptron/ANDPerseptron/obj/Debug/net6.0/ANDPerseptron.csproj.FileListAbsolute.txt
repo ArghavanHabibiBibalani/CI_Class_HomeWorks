@@ -1,0 +1,14 @@
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\Perseptron\ANDPerseptron\ANDPerseptron\bin\Debug\net6.0\ANDPerseptron.exe
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\Perseptron\ANDPerseptron\ANDPerseptron\bin\Debug\net6.0\ANDPerseptron.deps.json
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\Perseptron\ANDPerseptron\ANDPerseptron\bin\Debug\net6.0\ANDPerseptron.runtimeconfig.json
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\Perseptron\ANDPerseptron\ANDPerseptron\bin\Debug\net6.0\ANDPerseptron.dll
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\Perseptron\ANDPerseptron\ANDPerseptron\bin\Debug\net6.0\ANDPerseptron.pdb
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\Perseptron\ANDPerseptron\ANDPerseptron\obj\Debug\net6.0\ANDPerseptron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\Perseptron\ANDPerseptron\ANDPerseptron\obj\Debug\net6.0\ANDPerseptron.AssemblyInfoInputs.cache
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\Perseptron\ANDPerseptron\ANDPerseptron\obj\Debug\net6.0\ANDPerseptron.AssemblyInfo.cs
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\Perseptron\ANDPerseptron\ANDPerseptron\obj\Debug\net6.0\ANDPerseptron.csproj.CoreCompileInputs.cache
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\Perseptron\ANDPerseptron\ANDPerseptron\obj\Debug\net6.0\ANDPerseptron.dll
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\Perseptron\ANDPerseptron\ANDPerseptron\obj\Debug\net6.0\refint\ANDPerseptron.dll
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\Perseptron\ANDPerseptron\ANDPerseptron\obj\Debug\net6.0\ANDPerseptron.pdb
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\Perseptron\ANDPerseptron\ANDPerseptron\obj\Debug\net6.0\ANDPerseptron.genruntimeconfig.cache
+C:\Users\Spino\Desktop\Hebb\Hebb\CI_Class\Perseptron\ANDPerseptron\ANDPerseptron\obj\Debug\net6.0\ref\ANDPerseptron.dll
